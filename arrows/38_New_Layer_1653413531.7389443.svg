@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="151.55135"
+   viewBox="0 0 100 151.55135"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155">
+    <clipPath
+       id="clip1_0_1">
+      <rect
+         width="20"
+         height="152"
+         fill="#ffffff"
+         transform="translate(710,4582)"
+         id="rect1053"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip2_0_1">
+      <rect
+         width="100"
+         height="39"
+         fill="#ffffff"
+         transform="translate(670.5,4638.5)"
+         id="rect1056"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="New_Layer_1653413531.7389443"
+     style="display:inline"
+     transform="translate(-670.5,-4582)">
+    <g
+       id="g7946">
+      <g
+         clip-path="url(#clip1_0_1)"
+         id="g5724">
+        <line
+           y1="-1"
+           x2="141"
+           y2="-1"
+           transform="matrix(-4.37114e-8,1,1,4.37114e-8,721.5,4592)"
+           stroke="#65bf73"
+           stroke-width="2"
+           id="line5718"
+           x1="0" />
+        <circle
+           r="5.5"
+           transform="matrix(-4.37114e-8,1,1,4.37114e-8,721,4587.5)"
+           fill="#65bf73"
+           id="circle5720"
+           cx="0"
+           cy="0" />
+        <path
+           d="m 720.033,4733.25 -7.373,-7.55 c -0.619,-0.63 -0.17,-1.7 0.715,-1.7 h 14.341 c 0.872,0 1.326,1.04 0.735,1.68 l -6.968,7.55 c -0.388,0.42 -1.05,0.43 -1.45,0.02 z"
+           fill="#65bf73"
+           id="path5722" />
+      </g>
+      <g
+         clip-path="url(#clip2_0_1)"
+         id="g5734">
+        <rect
+           x="671"
+           y="4639"
+           width="99"
+           height="38"
+           rx="7.5"
+           fill="#e5fde8"
+           id="rect5726" />
+        <text
+           fill="#65bf73"
+           xml:space="preserve"
+           style="white-space:pre"
+           font-family="Roboto"
+           font-size="16px"
+           letter-spacing="0em"
+           id="text5730"
+           x="707.828"
+           y="4663.4702"><tspan
+             x="707.828"
+             y="4663.4702"
+             id="tspan5728">Tag</tspan></text>
+        <rect
+           x="671"
+           y="4639"
+           width="99"
+           height="38"
+           rx="7.5"
+           stroke="#65bf73"
+           id="rect5732" />
+      </g>
+    </g>
+  </g>
+</svg>

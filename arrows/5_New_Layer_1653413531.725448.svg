@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="155.99995"
+   height="208.03"
+   viewBox="0 0 155.99995 208.03"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155" />
+  <g
+     id="New_Layer_1653413531.725448"
+     style="display:inline"
+     transform="translate(-115,-2261)">
+    <g
+       id="g9911">
+      <path
+         d="m 270,2270.5 h -67.525 c -11.046,0 -20,8.95 -20,20 v 148 c 0,11.05 8.954,20 20,20 H 270"
+         stroke="#de1306"
+         stroke-width="2"
+         id="path5256" />
+      <circle
+         r="5.5"
+         transform="matrix(4.37114e-8,1,1,-4.37114e-8,121.5,2364)"
+         stroke="#de1306"
+         stroke-width="2"
+         id="circle5258"
+         cx="0"
+         cy="0" />
+      <line
+         y1="-1"
+         x2="55"
+         y2="-1"
+         transform="matrix(-1,0,0,1,182,2365.5)"
+         stroke="#de1306"
+         stroke-width="2"
+         id="line5260"
+         x1="0" />
+      <path
+         d="m 260,2468.03 10,-9.26 -10,-8.77"
+         stroke="#de1306"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5262" />
+      <path
+         d="m 260,2280.03 10,-9.26 -10,-8.77"
+         stroke="#de1306"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5264" />
+    </g>
+  </g>
+</svg>

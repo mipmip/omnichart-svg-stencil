@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="46"
+   height="46"
+   viewBox="0 0 46 46"
+   fill="none"
+   version="1.1"
+   id="svg1449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1447">
+    <filter
+       id="filter20_d_0_1"
+       x="474"
+       y="2381"
+       width="46"
+       height="46"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood966" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix968" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset970" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.9875 0 0 0 0 0.738327 0 0 0 0 0.703594 0 0 0 1 0"
+         id="feColorMatrix972" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend974" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend976" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412033.8324468"
+     style="display:inline"
+     transform="translate(-474,-2381)">
+    <g
+       id="g4127">
+      <g
+         filter="url(#filter20_d_0_1)"
+         id="g5453">
+        <circle
+           cx="495"
+           cy="2402"
+           r="21"
+           fill="#ffffff"
+           id="circle5449" />
+        <circle
+           cx="495"
+           cy="2402"
+           r="20.5"
+           stroke="#ff5a43"
+           id="circle5451" />
+      </g>
+      <path
+         d="m 486.625,2394.62 15.75,15.76"
+         stroke="#ff5a43"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5455" />
+      <path
+         d="m 502.375,2394.62 -15.75,15.76"
+         stroke="#ff5a43"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5457" />
+    </g>
+  </g>
+</svg>

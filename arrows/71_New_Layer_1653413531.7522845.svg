@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="220.98822"
+   height="16.100405"
+   viewBox="0 0 220.98822 16.100405"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155">
+    <clipPath
+       id="clip34_0_1">
+      <rect
+         width="221.5"
+         height="18.525"
+         fill="#ffffff"
+         transform="translate(129,1645)"
+         id="rect1152"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="New_Layer_1653413531.7522845"
+     style="display:inline"
+     transform="translate(-129,-1646.2549)">
+    <g
+       id="g1327">
+      <g
+         clip-path="url(#clip34_0_1)"
+         id="g6166">
+        <path
+           d="m 349.66,1653.76 -7.988,-7.24 c -0.643,-0.59 -1.672,-0.13 -1.672,0.74 v 14.09 c 0,0.86 1.002,1.32 1.651,0.76 l 7.988,-6.85 c 0.457,-0.39 0.467,-1.09 0.021,-1.5 z"
+           fill="#2097f6"
+           id="path6160" />
+        <line
+           x1="139"
+           y1="1654.5"
+           x2="340"
+           y2="1654.5"
+           stroke="#2097f7"
+           stroke-width="2"
+           id="line6162" />
+        <circle
+           cx="134.5"
+           cy="1655"
+           r="5.5"
+           fill="#2097f6"
+           id="circle6164" />
+      </g>
+    </g>
+  </g>
+</svg>

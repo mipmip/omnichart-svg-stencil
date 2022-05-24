@@ -1,0 +1,1 @@
+# omnichart-svg-stencil

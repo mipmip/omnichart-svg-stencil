@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="151.55135"
+   viewBox="0 0 100 151.55135"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155">
+    <clipPath
+       id="clip10_0_1">
+      <rect
+         width="100"
+         height="39"
+         fill="#ffffff"
+         transform="translate(242.5,3830.5)"
+         id="rect1080"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="New_Layer_1653413531.741023"
+     style="display:inline"
+     transform="translate(-242.5,-3774.4486)">
+    <g
+       id="g1723">
+      <line
+         x1="292.5"
+         y1="3916"
+         x2="292.5"
+         y2="3775"
+         stroke="#ff5a43"
+         stroke-width="2"
+         id="line5816" />
+      <circle
+         cx="293"
+         cy="3920.5"
+         r="5.5"
+         transform="rotate(-90,293,3920.5)"
+         fill="#ff5a43"
+         id="circle5818" />
+      <path
+         d="m 292.033,3774.75 -7.373,7.55 c -0.619,0.63 -0.17,1.7 0.715,1.7 h 14.341 c 0.872,0 1.326,-1.04 0.735,-1.68 l -6.968,-7.55 c -0.388,-0.42 -1.05,-0.43 -1.45,-0.02 z"
+         fill="#ff5a43"
+         id="path5820" />
+      <g
+         clip-path="url(#clip10_0_1)"
+         id="g5830">
+        <rect
+           x="243"
+           y="3831"
+           width="99"
+           height="38"
+           rx="7.5"
+           fill="#ffecea"
+           id="rect5822" />
+        <text
+           fill="#ff5a43"
+           xml:space="preserve"
+           style="white-space:pre"
+           font-family="Roboto"
+           font-size="16px"
+           letter-spacing="0em"
+           id="text5826"
+           x="279.828"
+           y="3855.47"><tspan
+             x="279.828"
+             y="3855.47"
+             id="tspan5824">Tag</tspan></text>
+        <rect
+           x="243"
+           y="3831"
+           width="99"
+           height="38"
+           rx="7.5"
+           stroke="#ff5a43"
+           id="rect5828" />
+      </g>
+    </g>
+  </g>
+</svg>

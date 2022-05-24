@@ -1,0 +1,1095 @@
+DEBUG:root:EXTENSION PARAMETERS
+---------------------------------------
+Stencil name:     Omnichart - Notes
+Current file:     /tmp/ink_ext_XXXXXX.svgV1C8L1
+Path:             /home/pim/cSvg-stencils/omnichart-svg-stencil/notes
+Overwrite files:  True
+Use logging:      True
+---------------------------------------
+
+DEBUG:root:  Use : [bg, locked]
+DEBUG:root:  Skip: [other]
+DEBUG:root:  Use : [New_Layer_1653412796.9154258, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9239464, component]
+DEBUG:root:  Use : [New_Layer_1653412796.924353, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9247704, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9251873, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9255967, component]
+DEBUG:root:  Use : [New_Layer_1653412796.926017, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9264178, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9268305, component]
+DEBUG:root:  Use : [New_Layer_1653412796.927238, component]
+DEBUG:root:  Use : [New_Layer_1653412796.92765, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9280832, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9285076, component]
+DEBUG:root:  Use : [New_Layer_1653412796.92895, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9293911, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9298368, component]
+DEBUG:root:  Use : [New_Layer_1653412796.930258, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9307015, component]
+DEBUG:root:  Use : [New_Layer_1653412796.931129, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9315677, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9320116, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9324358, component]
+DEBUG:root:  Use : [New_Layer_1653412796.932869, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9332936, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9337292, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9341605, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9345963, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9350386, component]
+DEBUG:root:  Use : [New_Layer_1653412796.935464, component]
+DEBUG:root:  Use : [New_Layer_1653412796.9358976, component]
+DEBUG:root:  TOTAL NUMBER OF LAYERS: 31
+
+DEBUG:root:  File name: 1_bg.svg
+DEBUG:root:  Preparing layer target file [bg]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((0.0, 1440.0),(0.0, 2037.0))]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((0.0, 1440.0),(0.0, 2037.0))]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((80.5, 335.5),(1390.5, 1583.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((336.0, 592.0),(1390.0, 1584.0))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((592.5, 847.5),(1390.5, 1583.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((848.5, 1103.5),(1390.5, 1583.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1104.0, 1360.0),(1390.0, 1584.0))]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((79.5, 334.5),(1622.5, 1788.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((335.0, 591.0),(1622.0, 1789.0))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((591.5, 846.5),(1622.5, 1788.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((847.5, 1102.5),(1622.5, 1788.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1103.0, 1359.0),(1622.0, 1789.0))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((81.0438, 1175.27),(153.68401, 305.82199))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((82.235298, 1175.27),(153.68401, 384.548))]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((79.5, 398.5),(411.5, 1295.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((385.0, 705.0),(411.0, 1296.0))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((705.0, 1039.0),(411.0, 1296.0))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1039.0, 1359.0),(411.0, 1296.0))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((79.015297, 1175.27),(153.68401, 1363.55))]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((0.5, 1439.5),(1877.5, 2036.5))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((118.811, 320.928),(1939.0, 1962.5400000000002))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((79.99998132378, 112.38997181314404),(1938.999343016092, 1976.92))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((371.327, 1175.27),(153.68401, 1962.6801))]
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((80.49999999999999, 1359.5),(101.5, 190.5))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1175.27, 1290.96),(153.68401, 153.68401))]
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1175.27, 1175.27),(153.68401, 153.68401))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((108.0, 125.50999999999999),(135.47299999999998, 153.118))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((152.571, 168.73499999999999),(135.67499999999995, 152.646))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((172.976, 177.218),(135.944, 152.646))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((180.66299999999998, 197.70200000000003),(135.47299999999998, 153.118))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((200.992, 217.15499999999997),(129.07499999999996, 152.646))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((220.588, 235.741),(135.473, 153.11800000000002))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((239.992, 250.42999999999998),(135.87699999999998, 152.646))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((252.002, 265.0),(130.75799999999998, 152.646))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((128.406, 132.41500000000002),(136.216, 153.053))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((136.424, 140.43200000000002),(141.026, 153.053))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((132.415, 136.42399999999998),(136.216, 141.026))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((140.432, 144.44099999999997),(136.216, 141.026))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((172.903, 177.233),(129.0, 133.41))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((144.441, 148.45),(141.026, 153.053))]
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1.0, 1.0),(2.0, 2.0))]
+DEBUG:root:    Creating temp file /tmp/tmpv8xnnn3u.svg
+DEBUG:root:  Exporting [bg] as 1_bg.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/1_bg.svg /tmp/tmpv8xnnn3u.svg
+
+DEBUG:root:  File name: 2_New_Layer_1653412796.9154258.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9154258]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((115.0, 300.0),(1440.0, 1534.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((133.0, 141.05499),(1474.1, 1510.79))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((133.0, 156.0),(1458.0, 1482.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((141.05499, 141.05499),(1474.1, 1474.1))]
+DEBUG:root:    Creating temp file /tmp/tmpguzlgg80.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9154258] as 2_New_Layer_1653412796.9154258.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/2_New_Layer_1653412796.9154258.svg /tmp/tmpguzlgg80.svg
+
+DEBUG:root:  File name: 3_New_Layer_1653412796.9239464.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9239464]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((372.0, 557.0),(1440.0, 1534.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((390.0, 398.05499),(1474.1, 1510.79))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((390.0, 413.0),(1458.0, 1482.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((398.05499, 398.05499),(1474.1, 1474.1))]
+DEBUG:root:    Creating temp file /tmp/tmpx3639mnt.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9239464] as 3_New_Layer_1653412796.9239464.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/3_New_Layer_1653412796.9239464.svg /tmp/tmpx3639mnt.svg
+
+DEBUG:root:  File name: 4_New_Layer_1653412796.924353.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.924353]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((628.0, 813.0),(1440.0, 1534.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((646.0, 654.05499),(1474.1, 1510.79))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((646.0, 669.0),(1458.0, 1482.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((654.05499, 654.05499),(1474.1, 1474.1))]
+DEBUG:root:    Creating temp file /tmp/tmple7258nf.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.924353] as 4_New_Layer_1653412796.924353.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/4_New_Layer_1653412796.924353.svg /tmp/tmple7258nf.svg
+
+DEBUG:root:  File name: 5_New_Layer_1653412796.9247704.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9247704]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1317.0),(1440.0, 1534.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1150.0, 1158.05),(1474.1, 1510.79))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1150.0, 1173.0),(1458.0, 1482.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1158.05, 1158.05),(1474.1, 1474.1))]
+DEBUG:root:    Creating temp file /tmp/tmpjylr_qdx.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9247704] as 5_New_Layer_1653412796.9247704.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/5_New_Layer_1653412796.9247704.svg /tmp/tmpjylr_qdx.svg
+
+DEBUG:root:  File name: 6_New_Layer_1653412796.9251873.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9251873]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((884.0, 1069.0),(1440.0, 1534.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((902.0, 910.05499),(1474.1, 1510.79))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((902.0, 925.0),(1458.0, 1482.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((910.05499, 910.05499),(1474.1, 1474.1))]
+DEBUG:root:    Creating temp file /tmp/tmppdob6c0r.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9251873] as 6_New_Layer_1653412796.9251873.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/6_New_Layer_1653412796.9251873.svg /tmp/tmppdob6c0r.svg
+
+DEBUG:root:  File name: 7_New_Layer_1653412796.9255967.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9255967]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((93.0, 320.0),(1672.0, 1736.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((121.0, 121.0),(1708.97, 1708.97))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((92.0, 321.0),(1671.0, 1737.0))]
+DEBUG:root:    Creating temp file /tmp/tmp5vdsy9nk.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9255967] as 7_New_Layer_1653412796.9255967.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/7_New_Layer_1653412796.9255967.svg /tmp/tmp5vdsy9nk.svg
+
+DEBUG:root:  File name: 8_New_Layer_1653412796.926017.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.926017]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((349.0, 576.0),(1672.0, 1736.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((377.0, 377.0),(1708.97, 1708.97))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((348.0, 577.0),(1671.0, 1737.0))]
+DEBUG:root:    Creating temp file /tmp/tmpbapqvmni.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.926017] as 8_New_Layer_1653412796.926017.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/8_New_Layer_1653412796.926017.svg /tmp/tmpbapqvmni.svg
+
+DEBUG:root:  File name: 9_New_Layer_1653412796.9264178.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9264178]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((605.0, 832.0),(1672.0, 1736.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((633.0, 633.0),(1708.97, 1708.97))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((604.0, 833.0),(1671.0, 1737.0))]
+DEBUG:root:    Creating temp file /tmp/tmpk592ca1h.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9264178] as 9_New_Layer_1653412796.9264178.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/9_New_Layer_1653412796.9264178.svg /tmp/tmpk592ca1h.svg
+
+DEBUG:root:  File name: 10_New_Layer_1653412796.9268305.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9268305]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((861.0, 1088.0),(1672.0, 1736.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((889.0, 889.0),(1708.97, 1708.97))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((860.0, 1089.0),(1671.0, 1737.0))]
+DEBUG:root:    Creating temp file /tmp/tmpjnwm4451.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9268305] as 10_New_Layer_1653412796.9268305.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/10_New_Layer_1653412796.9268305.svg /tmp/tmpjnwm4451.svg
+
+DEBUG:root:  File name: 11_New_Layer_1653412796.927238.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.927238]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1115.0, 1342.0),(1677.0, 1741.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1143.0, 1143.0),(1713.97, 1713.97))]
+DEBUG:root:    Creating temp file /tmp/tmpvibjjtiv.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.927238] as 11_New_Layer_1653412796.927238.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/11_New_Layer_1653412796.927238.svg /tmp/tmpvibjjtiv.svg
+
+DEBUG:root:  File name: 12_New_Layer_1653412796.92765.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.92765]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.0, 1289.0),(947.0, 1055.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.5, 1288.5),(947.5, 1054.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(1054.0, 1068.33))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(1054.5, 1068.485))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(984.46899, 1026.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(984.46899, 1008.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(984.46899, 984.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpap4pg6kw.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.92765] as 12_New_Layer_1653412796.92765.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/12_New_Layer_1653412796.92765.svg /tmp/tmpap4pg6kw.svg
+
+DEBUG:root:  File name: 13_New_Layer_1653412796.9280832.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9280832]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.0, 966.0),(947.0, 1055.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.5, 965.5),(947.5, 1054.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 890.0),(933.671, 948.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 895.0),(933.5167499999999, 947.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(984.46899, 1026.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(984.46899, 1008.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(984.46899, 984.46899))]
+DEBUG:root:    Creating temp file /tmp/tmp_a5drd8z.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9280832] as 13_New_Layer_1653412796.9280832.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/13_New_Layer_1653412796.9280832.svg /tmp/tmp_a5drd8z.svg
+
+DEBUG:root:  File name: 14_New_Layer_1653412796.9285076.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9285076]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.0, 1289.0),(1138.0, 1246.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.5, 1288.5),(1138.5, 1245.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(1245.0, 1259.33))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(1245.5, 1259.4850000000001))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(1175.47, 1217.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(1175.47, 1199.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(1175.47, 1175.47))]
+DEBUG:root:    Creating temp file /tmp/tmpqsqnyf6d.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9285076] as 14_New_Layer_1653412796.9285076.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/14_New_Layer_1653412796.9285076.svg /tmp/tmpqsqnyf6d.svg
+
+DEBUG:root:  File name: 15_New_Layer_1653412796.92895.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.92895]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.0, 966.0),(1138.0, 1246.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.5, 965.5),(1138.5, 1245.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 890.0),(1124.67, 1139.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 895.0),(1124.5149999999999, 1138.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(1175.47, 1217.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(1175.47, 1199.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(1175.47, 1175.47))]
+DEBUG:root:    Creating temp file /tmp/tmpsq5pnzns.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.92895] as 15_New_Layer_1653412796.92895.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/15_New_Layer_1653412796.92895.svg /tmp/tmpsq5pnzns.svg
+
+DEBUG:root:  File name: 16_New_Layer_1653412796.9293911.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9293911]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.0, 1289.0),(461.0, 569.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.5, 1288.5),(461.5, 568.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(568.0, 582.329))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(568.5, 582.48325))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(498.46899, 540.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(498.46899, 522.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(498.46899, 498.46899))]
+DEBUG:root:    Creating temp file /tmp/tmp1mnrl96u.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9293911] as 16_New_Layer_1653412796.9293911.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/16_New_Layer_1653412796.9293911.svg /tmp/tmp1mnrl96u.svg
+
+DEBUG:root:  File name: 17_New_Layer_1653412796.9298368.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9298368]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.0, 336.0),(461.0, 568.828))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.5, 335.5),(461.5, 568.328))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.67100000000002, 160.0),(504.0, 526.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.51675, 159.5),(504.0, 526.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(498.46899, 540.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(498.46899, 522.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(498.46899, 498.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpf_asb9t5.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9298368] as 17_New_Layer_1653412796.9298368.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/17_New_Layer_1653412796.9298368.svg /tmp/tmpf_asb9t5.svg
+
+DEBUG:root:  File name: 18_New_Layer_1653412796.930258.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.930258]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.0, 966.0),(461.0, 569.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.5, 965.5),(461.5, 568.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 890.0),(447.671, 462.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 895.0),(447.51675, 461.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(498.46899, 540.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(498.46899, 522.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(498.46899, 498.46899))]
+DEBUG:root:    Creating temp file /tmp/tmp09esbkn2.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.930258] as 18_New_Layer_1653412796.930258.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/18_New_Layer_1653412796.930258.svg /tmp/tmp09esbkn2.svg
+
+DEBUG:root:  File name: 19_New_Layer_1653412796.9307015.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9307015]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.0, 1289.0),(619.0, 727.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.5, 1288.5),(619.5, 726.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(726.0, 740.329))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(726.5, 740.48325))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(656.46899, 698.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(656.46899, 680.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(656.46899, 656.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpp9d_mlan.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9307015] as 19_New_Layer_1653412796.9307015.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/19_New_Layer_1653412796.9307015.svg /tmp/tmpp9d_mlan.svg
+
+DEBUG:root:  File name: 20_New_Layer_1653412796.931129.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.931129]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.0, 966.0),(619.0, 727.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.5, 965.5),(619.5, 726.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 890.0),(605.671, 620.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 895.0),(605.5167499999999, 619.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(656.46899, 698.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(656.46899, 680.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(656.46899, 656.46899))]
+DEBUG:root:    Creating temp file /tmp/tmphb70mg5g.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.931129] as 20_New_Layer_1653412796.931129.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/20_New_Layer_1653412796.931129.svg /tmp/tmphb70mg5g.svg
+
+DEBUG:root:  File name: 21_New_Layer_1653412796.9315677.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9315677]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.0, 1289.0),(777.0, 885.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((1112.5, 1288.5),(777.5, 884.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(884.0, 898.329))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((1192.0, 1214.0),(884.5, 898.48325))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(814.46899, 856.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(814.46899, 838.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((1132.0, 1132.0),(814.46899, 814.46899))]
+DEBUG:root:    Creating temp file /tmp/tmprofgxt13.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9315677] as 21_New_Layer_1653412796.9315677.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/21_New_Layer_1653412796.9315677.svg /tmp/tmprofgxt13.svg
+
+DEBUG:root:  File name: 22_New_Layer_1653412796.9320116.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9320116]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.0, 966.0),(777.0, 885.0))]
+DEBUG:root:    CHILD: Rectangle
+
+DEBUG:root:['typename', 'Rectangle']
+DEBUG:root:['shape_box', BoundingBox((789.5, 965.5),(777.5, 884.5))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 890.0),(763.671, 778.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((868.0, 895.0),(763.5167499999999, 777.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(814.46899, 856.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(814.46899, 838.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((809.0, 809.0),(814.46899, 814.46899))]
+DEBUG:root:    Creating temp file /tmp/tmphfspf_ru.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9320116] as 22_New_Layer_1653412796.9320116.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/22_New_Layer_1653412796.9320116.svg /tmp/tmphfspf_ru.svg
+
+DEBUG:root:  File name: 23_New_Layer_1653412796.9324358.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9324358]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.0, 641.0),(461.0, 568.828))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.5, 640.5),(461.5, 568.328))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.0, 654.329),(504.0, 526.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.5, 654.48325),(504.0, 526.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(498.46899, 540.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(498.46899, 522.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(498.46899, 498.46899))]
+DEBUG:root:    Creating temp file /tmp/tmp7765kd7w.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9324358] as 23_New_Layer_1653412796.9324358.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/23_New_Layer_1653412796.9324358.svg /tmp/tmp7765kd7w.svg
+
+DEBUG:root:  File name: 24_New_Layer_1653412796.932869.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.932869]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.0, 641.0),(619.0, 726.828))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.5, 640.5),(619.5, 726.328))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.0, 654.329),(662.0, 684.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.5, 654.48325),(662.0, 684.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(656.46899, 698.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(656.46899, 680.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(656.46899, 656.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpwcsctg00.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.932869] as 24_New_Layer_1653412796.932869.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/24_New_Layer_1653412796.932869.svg /tmp/tmpwcsctg00.svg
+
+DEBUG:root:  File name: 25_New_Layer_1653412796.9332936.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9332936]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.0, 641.0),(777.0, 884.828))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.5, 640.5),(777.5, 884.328))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.0, 654.329),(820.0, 842.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.5, 654.48325),(820.0, 842.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(814.46899, 856.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(814.46899, 838.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(814.46899, 814.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpcdrmcod8.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9332936] as 25_New_Layer_1653412796.9332936.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/25_New_Layer_1653412796.9332936.svg /tmp/tmpcdrmcod8.svg
+
+DEBUG:root:  File name: 26_New_Layer_1653412796.9337292.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9337292]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.0, 641.0),(947.0, 1054.83))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.5, 640.5),(947.5, 1054.33))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.0, 654.329),(990.0, 1012.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.5, 654.48325),(990.0, 1012.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(984.46899, 1026.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(984.46899, 1008.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(984.46899, 984.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpazk44kfy.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9337292] as 26_New_Layer_1653412796.9337292.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/26_New_Layer_1653412796.9337292.svg /tmp/tmpazk44kfy.svg
+
+DEBUG:root:  File name: 27_New_Layer_1653412796.9341605.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9341605]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.0, 641.0),(1138.0, 1245.83))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((464.5, 640.5),(1138.5, 1245.33))]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.0, 654.329),(1181.0, 1203.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((640.5, 654.48325),(1181.0, 1203.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(1175.47, 1217.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(1175.47, 1199.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((484.0, 484.0),(1175.47, 1175.47))]
+DEBUG:root:    Creating temp file /tmp/tmpm2ojnft4.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9341605] as 27_New_Layer_1653412796.9341605.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/27_New_Layer_1653412796.9341605.svg /tmp/tmpm2ojnft4.svg
+
+DEBUG:root:  File name: 28_New_Layer_1653412796.9345963.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9345963]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.0, 336.0),(619.0, 726.828))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.5, 335.5),(619.5, 726.328))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.67100000000002, 160.0),(662.0, 684.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.51675, 159.5),(662.0, 684.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(656.46899, 698.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(656.46899, 680.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(656.46899, 656.46899))]
+DEBUG:root:    Creating temp file /tmp/tmp6ku_gg5e.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9345963] as 28_New_Layer_1653412796.9345963.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/28_New_Layer_1653412796.9345963.svg /tmp/tmp6ku_gg5e.svg
+
+DEBUG:root:  File name: 29_New_Layer_1653412796.9350386.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9350386]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.0, 336.0),(777.0, 884.828))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.5, 335.5),(777.5, 884.328))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.67100000000002, 160.0),(820.0, 842.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.51675, 159.5),(820.0, 842.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(814.46899, 856.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(814.46899, 838.46899))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(814.46899, 814.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpakjgke9q.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9350386] as 29_New_Layer_1653412796.9350386.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/29_New_Layer_1653412796.9350386.svg /tmp/tmpakjgke9q.svg
+
+DEBUG:root:  File name: 30_New_Layer_1653412796.935464.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.935464]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.0, 336.0),(947.0, 1054.83))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.5, 335.5),(947.5, 1054.33))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.67100000000002, 160.0),(990.0, 1012.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.51675, 159.5),(990.0, 1012.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(984.46899, 1026.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(984.46899, 1008.47))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(984.46899, 984.46899))]
+DEBUG:root:    Creating temp file /tmp/tmpuq9zyw76.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.935464] as 30_New_Layer_1653412796.935464.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/30_New_Layer_1653412796.935464.svg /tmp/tmpuq9zyw76.svg
+
+DEBUG:root:  File name: 31_New_Layer_1653412796.9358976.svg
+DEBUG:root:  Preparing layer target file [New_Layer_1653412796.9358976]
+DEBUG:root:    CHILD: Group
+
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.0, 336.0),(1138.0, 1246.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((159.5, 335.5),(1138.5, 1245.5))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.67100000000002, 160.0),(1181.0, 1203.0))]
+DEBUG:root:    CHILD: PathElement
+
+DEBUG:root:['typename', 'PathElement']
+DEBUG:root:['shape_box', BoundingBox((145.51675, 159.5),(1181.0, 1203.0))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(1175.5, 1217.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(1175.5, 1199.5))]
+DEBUG:root:    CHILD: TextElement
+
+DEBUG:root:['typename', 'TextElement']
+DEBUG:root:['shape_box', BoundingBox((179.0, 179.0),(1175.5, 1175.5))]
+DEBUG:root:    Creating temp file /tmp/tmpk64bpfc8.svg
+DEBUG:root:  Exporting [New_Layer_1653412796.9358976] as 31_New_Layer_1653412796.9358976.svg
+DEBUG:root:    inkscape --vacuum-defs --export-plain-svg --export-type=svg --export-area-drawing --export-filename=/home/pim/cSvg-stencils/omnichart-svg-stencil/notes/31_New_Layer_1653412796.9358976.svg /tmp/tmpk64bpfc8.svg
+
+DEBUG:root:  temp_elements: [[<Element {http://www.w3.org/2000/svg}path at 0x7f0f53933770>]]
+DEBUG:root:  delete temp element: [path]
+DEBUG:root:===============================
+
+STENCIL EXPORT FINSISHED:
+

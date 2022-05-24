@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="144.373"
+   height="144.373"
+   viewBox="0 0 144.373 144.373"
+   fill="none"
+   version="1.1"
+   id="svg1449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1447">
+    <filter
+       id="filter39_d_0_1"
+       x="394.314"
+       y="1524.3101"
+       width="144.373"
+       height="144.373"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1213" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1215" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset1217" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.9875 0 0 0 0 0.738327 0 0 0 0 0.703594 0 0 0 1 0"
+         id="feColorMatrix1219" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend1221" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend1223" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412033.8400552"
+     style="display:inline"
+     transform="translate(-394.314,-1524.3101)">
+    <g
+       id="g5655">
+      <g
+         filter="url(#filter39_d_0_1)"
+         id="g5649">
+        <path
+           d="m 458.843,1526.66 c 3.124,-3.13 8.19,-3.13 11.314,0 l 62.186,62.18 c 3.124,3.13 3.124,8.19 0,11.32 l -62.186,62.18 c -3.124,3.13 -8.19,3.13 -11.314,0 l -62.186,-62.18 c -3.124,-3.13 -3.124,-8.19 0,-11.32 z"
+           fill="#ffecea"
+           id="path5645" />
+        <path
+           d="m 459.197,1527.01 c 2.929,-2.93 7.677,-2.93 10.606,0 l 62.187,62.19 c 2.929,2.93 2.929,7.67 0,10.6 l -62.187,62.19 c -2.929,2.93 -7.677,2.93 -10.606,0 L 397.01,1599.8 c -2.929,-2.93 -2.929,-7.67 0,-10.6 z"
+           stroke="#ff5a43"
+           id="path5647" />
+      </g>
+      <text
+         fill="#ff5a43"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0em"
+         id="text5653"
+         x="436.517"
+         y="1600.1899"><tspan
+           x="436.517"
+           y="1600.1899"
+           id="tspan5651">Options</tspan></text>
+    </g>
+  </g>
+</svg>

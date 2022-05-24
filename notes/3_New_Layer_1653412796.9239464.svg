@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="189"
+   height="98"
+   viewBox="0 0 189 98"
+   fill="none"
+   version="1.1"
+   id="svg1369"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1367">
+    <filter
+       id="filter1_d_0_1"
+       x="372"
+       y="1440"
+       width="189"
+       height="98"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood715" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix717" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset719" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.9875 0 0 0 0 0.738327 0 0 0 0 0.703594 0 0 0 1 0"
+         id="feColorMatrix721" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend723" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend725" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412796.9239464"
+     style="display:inline"
+     transform="translate(-372,-1440)">
+    <g
+       id="g7139">
+      <g
+         filter="url(#filter1_d_0_1)"
+         id="g5866">
+        <path
+           d="m 372,1534 h 185 v -74 c 0,-11.05 -8.954,-20 -20,-20 H 527.43 372 Z"
+           fill="#ff5a43"
+           id="path5864" />
+      </g>
+      <text
+         fill="#ffffff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0em"
+         id="text5870"
+         x="398.05499"
+         y="1474.1"><tspan
+           x="390"
+           y="1510.79"
+           id="tspan5868">Type your comments</tspan></text>
+      <rect
+         x="390"
+         y="1458"
+         width="23"
+         height="24"
+         rx="11.5"
+         fill="#ffffff"
+         id="rect5872" />
+      <text
+         fill="#ff5a43"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="12px"
+         font-weight="bold"
+         letter-spacing="0em"
+         id="text5876"
+         x="398.05499"
+         y="1474.1"><tspan
+           x="398.05499"
+           y="1474.1"
+           id="tspan5874">1</tspan></text>
+    </g>
+  </g>
+</svg>

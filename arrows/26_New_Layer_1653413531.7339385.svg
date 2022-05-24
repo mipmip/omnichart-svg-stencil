@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="211.54785"
+   height="39"
+   viewBox="0 0 211.54785 39"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155" />
+  <g
+     id="New_Layer_1653413531.7339385"
+     style="display:inline"
+     transform="translate(-186,-3642)">
+    <g
+       id="g1894">
+      <line
+         x1="196"
+         y1="3661.5"
+         x2="397"
+         y2="3661.5"
+         stroke="#65bf73"
+         stroke-width="2"
+         id="line5524" />
+      <circle
+         cx="191.5"
+         cy="3662"
+         r="5.5"
+         fill="#65bf73"
+         id="circle5526" />
+      <path
+         d="m 397.247,3661.03 -7.548,-7.37 c -0.633,-0.62 -1.699,-0.17 -1.699,0.71 v 14.35 c 0,0.87 1.038,1.32 1.678,0.73 l 7.548,-6.97 c 0.421,-0.38 0.43,-1.05 0.021,-1.45 z"
+         fill="#65bf73"
+         id="path5528" />
+      <rect
+         x="242.5"
+         y="3642.5"
+         width="99"
+         height="38"
+         rx="7.5"
+         fill="#e5fde8"
+         id="rect5530" />
+      <text
+         fill="#65bf73"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0em"
+         id="text5534"
+         x="279.328"
+         y="3666.97"><tspan
+           x="279.328"
+           y="3666.97"
+           id="tspan5532">Tag</tspan></text>
+      <rect
+         x="242.5"
+         y="3642.5"
+         width="99"
+         height="38"
+         rx="7.5"
+         stroke="#65bf73"
+         id="rect5536" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="213"
+   height="39"
+   viewBox="0 0 213 39"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155" />
+  <g
+     id="New_Layer_1653413531.737713"
+     style="display:inline"
+     transform="translate(-1042,-3362)">
+    <g
+       id="g479">
+      <line
+         y1="-1"
+         x2="201"
+         y2="-1"
+         transform="matrix(-1,0,0,1,1245,3382.5)"
+         stroke="#ff5a43"
+         stroke-width="2"
+         id="line5668"
+         x1="0" />
+      <circle
+         r="5.5"
+         transform="matrix(-1,0,0,1,1249.5,3382)"
+         fill="#ff5a43"
+         id="circle5670"
+         cx="0"
+         cy="0" />
+      <circle
+         r="5.5"
+         transform="matrix(-1,0,0,1,1047.5,3381)"
+         fill="#ff5a43"
+         id="circle5672"
+         cx="0"
+         cy="0" />
+      <rect
+         x="1099.5"
+         y="3362.5"
+         width="99"
+         height="38"
+         rx="7.5"
+         fill="#feebea"
+         id="rect5674" />
+      <text
+         fill="#ff5a43"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0em"
+         id="text5678"
+         x="1136.33"
+         y="3386.97"><tspan
+           x="1136.33"
+           y="3386.97"
+           id="tspan5676">Tag</tspan></text>
+      <rect
+         x="1099.5"
+         y="3362.5"
+         width="99"
+         height="38"
+         rx="7.5"
+         stroke="#ff5a43"
+         id="rect5680" />
+    </g>
+  </g>
+</svg>
