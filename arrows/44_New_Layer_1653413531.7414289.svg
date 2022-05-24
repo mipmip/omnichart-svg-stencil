@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="151.55135"
+   viewBox="0 0 100 151.55135"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155">
+    <clipPath
+       id="clip11_0_1">
+      <rect
+         width="20"
+         height="152"
+         fill="#ffffff"
+         transform="translate(710,3774)"
+         id="rect1083"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip12_0_1">
+      <rect
+         width="100"
+         height="39"
+         fill="#ffffff"
+         transform="translate(670.5,3830.5)"
+         id="rect1086"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="New_Layer_1653413531.7414289"
+     style="display:inline"
+     transform="translate(-670.5,-3774)">
+    <g
+       id="g2129">
+      <g
+         clip-path="url(#clip11_0_1)"
+         id="g5840">
+        <line
+           y1="-1"
+           x2="141"
+           y2="-1"
+           transform="matrix(-4.37114e-8,1,1,4.37114e-8,721.5,3784)"
+           stroke="#ff5a43"
+           stroke-width="2"
+           id="line5834"
+           x1="0" />
+        <circle
+           r="5.5"
+           transform="matrix(-4.37114e-8,1,1,4.37114e-8,721,3779.5)"
+           fill="#ff5a43"
+           id="circle5836"
+           cx="0"
+           cy="0" />
+        <path
+           d="m 720.033,3925.25 -7.373,-7.55 c -0.619,-0.63 -0.17,-1.7 0.715,-1.7 h 14.341 c 0.872,0 1.326,1.04 0.735,1.68 l -6.968,7.55 c -0.388,0.42 -1.05,0.43 -1.45,0.02 z"
+           fill="#ff5a43"
+           id="path5838" />
+      </g>
+      <g
+         clip-path="url(#clip12_0_1)"
+         id="g5850">
+        <rect
+           x="671"
+           y="3831"
+           width="99"
+           height="38"
+           rx="7.5"
+           fill="#ffecea"
+           id="rect5842" />
+        <text
+           fill="#ff5a43"
+           xml:space="preserve"
+           style="white-space:pre"
+           font-family="Roboto"
+           font-size="16px"
+           letter-spacing="0em"
+           id="text5846"
+           x="707.828"
+           y="3855.47"><tspan
+             x="707.828"
+             y="3855.47"
+             id="tspan5844">Tag</tspan></text>
+        <rect
+           x="671"
+           y="3831"
+           width="99"
+           height="38"
+           rx="7.5"
+           stroke="#ff5a43"
+           id="rect5848" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="137"
+   height="67"
+   viewBox="0 0 137 67"
+   fill="none"
+   version="1.1"
+   id="svg1449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1447">
+    <filter
+       id="filter32_d_0_1"
+       x="141"
+       y="591.87903"
+       width="137"
+       height="67"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1122" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1124" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset1126" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.952941 0 0 0 0 0.639216 0 0 0 0 0.619608 0 0 0 1 0"
+         id="feColorMatrix1128" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend1130" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend1132" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412033.8372588"
+     style="display:inline"
+     transform="translate(-141,-591.87903)">
+    <g
+       filter="url(#filter32_d_0_1)"
+       id="g6556">
+      <path
+         d="m 141,599.879 c 0,-4.418 3.582,-8 8,-8 h 117 c 4.418,0 8,3.582 8,8 v 47 c 0,4.418 -3.582,8 -8,8 H 149 c -4.418,0 -8,-3.582 -8,-8 z"
+         fill="#ffffff"
+         id="path5571" />
+      <text
+         fill="#de1306"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0em"
+         id="text5575"
+         x="187.76601"
+         y="628.84802"><tspan
+           x="187.76601"
+           y="628.84802"
+           id="tspan5573">Block</tspan></text>
+      <path
+         d="m 149,592.879 h 117 v -2 H 149 Z m 124,7 v 47 h 2 v -47 z m -7,54 H 149 v 2 h 117 z m -124,-7 v -47 h -2 v 47 z m 7,7 c -3.866,0 -7,-3.134 -7,-7 h -2 c 0,4.97 4.029,9 9,9 z m 124,-7 c 0,3.866 -3.134,7 -7,7 v 2 c 4.971,0 9,-4.03 9,-9 z m -7,-54 c 3.866,0 7,3.134 7,7 h 2 c 0,-4.971 -4.029,-9 -9,-9 z m -117,-2 c -4.971,0 -9,4.029 -9,9 h 2 c 0,-3.866 3.134,-7 7,-7 z"
+         fill="#de1306"
+         id="path5577" />
+    </g>
+  </g>
+</svg>

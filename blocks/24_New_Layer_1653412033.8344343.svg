@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="46"
+   height="46"
+   viewBox="0 0 46 46"
+   fill="none"
+   version="1.1"
+   id="svg1449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1447">
+    <filter
+       id="filter25_d_0_1"
+       x="1180"
+       y="2384"
+       width="46"
+       height="46"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1031" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1033" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset1035" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.578021 0 0 0 0 0.775 0 0 0 0 0.608662 0 0 0 1 0"
+         id="feColorMatrix1037" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend1039" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend1041" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412033.8344343"
+     style="display:inline"
+     transform="translate(-1180,-2384)">
+    <g
+       id="g1030">
+      <g
+         filter="url(#filter25_d_0_1)"
+         id="g5503">
+        <circle
+           cx="1201"
+           cy="2405"
+           r="21"
+           fill="#65bf73"
+           id="circle5501" />
+      </g>
+      <path
+         d="m 1191,2405 6.5,7.5 14.5,-14.5"
+         stroke="#ffffff"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5505" />
+    </g>
+  </g>
+</svg>

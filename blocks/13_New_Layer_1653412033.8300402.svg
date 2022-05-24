@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="127"
+   height="109"
+   viewBox="0 0 127 109"
+   fill="none"
+   version="1.1"
+   id="svg1449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1447">
+    <filter
+       id="filter14_d_0_1"
+       x="659"
+       y="1191"
+       width="127"
+       height="109"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood888" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix890" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset892" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.513733 0 0 0 0 0.767915 0 0 0 0 0.970833 0 0 0 1 0"
+         id="feColorMatrix894" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend896" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend898" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412033.8300402"
+     style="display:inline"
+     transform="translate(-659,-1191)">
+    <g
+       id="g8408">
+      <g
+         filter="url(#filter14_d_0_1)"
+         id="g5381">
+        <rect
+           x="659"
+           y="1191"
+           width="123"
+           height="105"
+           rx="8"
+           fill="#ffffff"
+           id="rect5373" />
+        <text
+           fill="#2097f6"
+           xml:space="preserve"
+           style="white-space:pre"
+           font-family="Roboto"
+           font-size="16px"
+           letter-spacing="0em"
+           id="text5377"
+           x="698.14099"
+           y="1248.97"><tspan
+             x="698.14099"
+             y="1248.97"
+             id="tspan5375">Modal</tspan></text>
+        <rect
+           x="659.5"
+           y="1191.5"
+           width="122"
+           height="104"
+           rx="7.5"
+           stroke="#2097f6"
+           id="rect5379" />
+      </g>
+      <path
+         d="m 761.5,1202.5 9,9"
+         stroke="#2097f6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5383" />
+      <path
+         d="m 770.5,1202.5 -9,9"
+         stroke="#2097f6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5385" />
+    </g>
+  </g>
+</svg>

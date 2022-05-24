@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="196"
+   height="111.828"
+   viewBox="0 0 196 111.828"
+   fill="none"
+   version="1.1"
+   id="svg1369"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1367">
+    <filter
+       id="filter46_d_0_1"
+       x="144"
+       y="947"
+       width="196"
+       height="111.828"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1300" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1302" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset1304" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.674908 0 0 0 0 0.662083 0 0 0 0 0.945833 0 0 0 1 0"
+         id="feColorMatrix1306" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend1308" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend1310" />
+    </filter>
+    <filter
+       id="filter47_d_0_1"
+       x="159"
+       y="947"
+       width="181"
+       height="111.828"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1313" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1315" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset1317" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.674908 0 0 0 0 0.662083 0 0 0 0 0.945833 0 0 0 1 0"
+         id="feColorMatrix1319" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend1321" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend1323" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412796.935464"
+     style="display:inline"
+     transform="translate(-144,-947)">
+    <g
+       filter="url(#filter46_d_0_1)"
+       id="g1129">
+      <g
+         filter="url(#filter47_d_0_1)"
+         id="g6444">
+        <path
+           d="m 159,955 c 0,-4.418 3.582,-8 8,-8 h 161 c 4.418,0 8,3.582 8,8 v 91.83 c 0,4.42 -3.582,8 -8,8 H 247.5 167 c -4.418,0 -8,-3.58 -8,-8 z"
+           fill="#eeeeff"
+           id="path6440" />
+        <path
+           d="m 159.5,955 c 0,-4.142 3.358,-7.5 7.5,-7.5 h 161 c 4.142,0 7.5,3.358 7.5,7.5 v 91.83 c 0,4.14 -3.358,7.5 -7.5,7.5 H 247.5 167 c -4.142,0 -7.5,-3.36 -7.5,-7.5 z"
+           stroke="#5452f6"
+           id="path6442" />
+      </g>
+      <path
+         d="m 160,990 -12.415,7.587 c -2.552,1.56 -2.552,5.263 0,6.823 L 160,1012 Z"
+         fill="#eeeeff"
+         id="path6446" />
+      <path
+         d="m 159.5,990 -12.112,7.613 c -2.495,1.569 -2.495,5.207 0,6.777 L 159.5,1012"
+         stroke="#5452f6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path6448" />
+      <text
+         fill="#5452f6"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0em"
+         id="text6452"
+         x="179"
+         y="984.46899"><tspan
+           x="179"
+           y="1026.47"
+           id="tspan6450">- Typography</tspan></text>
+      <text
+         fill="#5452f6"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0em"
+         id="text6456"
+         x="179"
+         y="984.46899"><tspan
+           x="179"
+           y="1008.47"
+           id="tspan6454">- Color
+</tspan></text>
+      <text
+         fill="#5452f6"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         font-weight="500"
+         letter-spacing="0em"
+         id="text6460"
+         x="179"
+         y="984.46899"><tspan
+           x="179"
+           y="984.46899"
+           id="tspan6458">Style Guide
+</tspan></text>
+    </g>
+  </g>
+</svg>

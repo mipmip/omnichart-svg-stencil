@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100.5"
+   height="155.5"
+   viewBox="0 0 100.5 155.5"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155" />
+  <g
+     id="New_Layer_1653413531.758199"
+     style="display:inline"
+     transform="translate(-614,-864)">
+    <g
+       id="g6260">
+      <path
+         d="m 621,875 v 95 c 0,22.091 17.909,40 40,40 h 52.5"
+         stroke="#2097f7"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-dasharray="5, 8"
+         id="path6283" />
+      <path
+         d="m 703,1000.47 10,9.26 -10,8.77"
+         stroke="#2097f7"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path6285" />
+      <circle
+         cx="620.5"
+         cy="870.5"
+         r="5.5"
+         stroke="#2097f7"
+         stroke-width="2"
+         id="circle6287" />
+    </g>
+  </g>
+</svg>

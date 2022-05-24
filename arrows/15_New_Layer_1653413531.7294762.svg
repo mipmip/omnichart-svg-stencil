@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="300.026"
+   height="141.99995"
+   viewBox="0 0 300.026 141.99995"
+   fill="none"
+   version="1.1"
+   id="svg1157"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1155" />
+  <g
+     id="New_Layer_1653413531.7294762"
+     style="display:inline"
+     transform="translate(-570,-2771)">
+    <g
+       id="g1914">
+      <circle
+         r="5.5"
+         transform="matrix(1,0,0,-1,719,2906.5)"
+         stroke="#65bf73"
+         stroke-width="2"
+         id="circle5376"
+         cx="0"
+         cy="0" />
+      <path
+         d="m 579.5,2772 v 53.52 c 0,11.05 8.954,20 20,20 h 240 c 11.046,0 20,-8.95 20,-20 V 2772"
+         stroke="#65bf73"
+         stroke-width="2"
+         id="path5378" />
+      <line
+         y1="2846"
+         x2="719.5"
+         y2="2901"
+         stroke="#65bf73"
+         stroke-width="2"
+         id="line5380"
+         x1="719.5" />
+      <path
+         d="m 869.026,2782 -9.257,-10 -8.769,10"
+         stroke="#65bf73"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5382" />
+      <path
+         d="m 589.026,2782 -9.257,-10 -8.769,10"
+         stroke="#65bf73"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path5384" />
+    </g>
+  </g>
+</svg>

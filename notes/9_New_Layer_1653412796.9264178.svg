@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="231"
+   height="68"
+   viewBox="0 0 231 68"
+   fill="none"
+   version="1.1"
+   id="svg1369"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1367">
+    <filter
+       id="filter7_d_0_1"
+       x="605"
+       y="1672"
+       width="231"
+       height="68"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood793" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix795" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset797" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.513733 0 0 0 0 0.767915 0 0 0 0 0.970833 0 0 0 1 0"
+         id="feColorMatrix799" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend801" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend803" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412796.9264178"
+     style="display:inline"
+     transform="translate(-605,-1672)">
+    <g
+       filter="url(#filter7_d_0_1)"
+       id="g5671">
+      <path
+         d="m 605,1680 c 0,-4.42 3.582,-8 8,-8 h 211 c 4.418,0 8,3.58 8,8 v 48 c 0,4.42 -3.582,8 -8,8 H 613 c -4.418,0 -8,-3.58 -8,-8 z"
+         fill="#2097f6"
+         id="path5948" />
+      <text
+         fill="#e7f4ff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0em"
+         id="text5952"
+         x="633"
+         y="1708.97"><tspan
+           x="633"
+           y="1708.97"
+           id="tspan5950">Product Feature</tspan></text>
+      <path
+         d="m 613,1673 h 211 v -2 H 613 Z m 218,7 v 48 h 2 v -48 z m -7,55 H 613 v 2 h 211 z m -218,-7 v -48 h -2 v 48 z m 7,7 c -3.866,0 -7,-3.13 -7,-7 h -2 c 0,4.97 4.029,9 9,9 z m 218,-7 c 0,3.87 -3.134,7 -7,7 v 2 c 4.971,0 9,-4.03 9,-9 z m -7,-55 c 3.866,0 7,3.13 7,7 h 2 c 0,-4.97 -4.029,-9 -9,-9 z m -211,-2 c -4.971,0 -9,4.03 -9,9 h 2 c 0,-3.87 3.134,-7 7,-7 z"
+         fill="#2097f6"
+         id="path5954" />
+    </g>
+  </g>
+</svg>

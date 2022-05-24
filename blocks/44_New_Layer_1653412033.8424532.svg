@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="144.373"
+   height="144.373"
+   viewBox="0 0 144.373 144.373"
+   fill="none"
+   version="1.1"
+   id="svg1449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1447">
+    <filter
+       id="filter45_d_0_1"
+       x="1162.3101"
+       y="1527.3101"
+       width="144.373"
+       height="144.373"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1291" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix1293" />
+      <feOffset
+         dx="4"
+         dy="4"
+         id="feOffset1295" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.578021 0 0 0 0 0.775 0 0 0 0 0.608662 0 0 0 1 0"
+         id="feColorMatrix1297" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend1299" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend1301" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653412033.8424532"
+     style="display:inline"
+     transform="translate(-1162.3101,-1527.3101)">
+    <g
+       id="g6576">
+      <g
+         filter="url(#filter45_d_0_1)"
+         id="g5722">
+        <path
+           d="m 1226.84,1529.66 c 3.13,-3.13 8.19,-3.13 11.32,0 l 62.18,62.18 c 3.13,3.13 3.13,8.19 0,11.32 l -62.18,62.18 c -3.13,3.13 -8.19,3.13 -11.32,0 l -62.18,-62.18 c -3.13,-3.13 -3.13,-8.19 0,-11.32 z"
+           fill="#e5fde8"
+           id="path5718" />
+        <path
+           d="m 1227.2,1530.01 c 2.93,-2.93 7.67,-2.93 10.6,0 l 62.19,62.19 c 2.93,2.93 2.93,7.67 0,10.6 l -62.19,62.19 c -2.93,2.93 -7.67,2.93 -10.6,0 l -62.19,-62.19 c -2.93,-2.93 -2.93,-7.67 0,-10.6 z"
+           stroke="#65bf73"
+           id="path5720" />
+      </g>
+      <text
+         fill="#65bf73"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="16px"
+         letter-spacing="0em"
+         id="text5726"
+         x="1210.39"
+         y="1603.1899"><tspan
+           x="1210.39"
+           y="1603.1899"
+           id="tspan5724">Modal</tspan></text>
+    </g>
+  </g>
+</svg>
